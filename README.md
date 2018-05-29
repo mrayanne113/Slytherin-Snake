@@ -39,7 +39,7 @@ and then run to start the server
 
 ## Testing 
 
-To start testing run 
+To run the testing suite
 
 ```npm test```
 
